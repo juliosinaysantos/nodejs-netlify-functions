@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-netlify-functions",
+  "version": "1.0.0",
+  "description": "Learn Netlify functions with Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosinaysantos/nodejs-netlify-functions.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Netlify functions",
+    "Serverless"
+  ],
+  "author": "Julio Sinay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosinaysantos/nodejs-netlify-functions/issues"
+  },
+  "homepage": "https://github.com/juliosinaysantos/nodejs-netlify-functions#readme"
+}
